@@ -5,27 +5,27 @@
 ## 📱 功能展示
 
 ### 主界面
-![主界面](iPhone-Agent-main/images/Pasted%20image%2020260204153832.png)
+![主界面](/images/Pasted%20image%2020260204153832.png)
 
 ### 功能界面
-![功能界面](iPhone-Agent-main/images/Pasted%20image%2020260204152746.png)
+![功能界面](/images/Pasted%20image%2020260204152746.png)
 
 ### 应用截图
 
 <div align="center">
-  <img src="iPhone-Agent-main/images/E337C2D4-6CE1-4B9C-B248-39F8EF2C7C92_1_201_a.jpeg" width="200" alt="截图1">
-  <img src="iPhone-Agent-main/images/565C6364-4598-44A0-8A0E-DA4CB23086BC.jpeg" width="200" alt="截图2">
-  <img src="iPhone-Agent-main/images/5082D9AC-D0C6-4CB4-968B-766899B184E6_1_201_a.jpeg" width="200" alt="截图3">
+  <img src="/images/E337C2D4-6CE1-4B9C-B248-39F8EF2C7C92_1_201_a.jpeg" width="200" alt="截图1">
+  <img src="/images/565C6364-4598-44A0-8A0E-DA4CB23086BC.jpeg" width="200" alt="截图2">
+  <img src="/images/5082D9AC-D0C6-4CB4-968B-766899B184E6_1_201_a.jpeg" width="200" alt="截图3">
 </div>
 
 <div align="center">
-  <img src="iPhone-Agent-main/images/E5689511-5065-4696-8C4B-2BE48E2729FE_1_105_c.jpeg" width="200" alt="截图4">
-  <img src="iPhone-Agent-main/images/51744D43-ACA6-4040-A766-DCE7138079C8.jpeg" width="200" alt="截图5">
-  <img src="iPhone-Agent-main/images/AE73D036-C227-454C-B0B7-1490BFFC64EE.jpeg" width="200" alt="截图6">
+  <img src="/images/E5689511-5065-4696-8C4B-2BE48E2729FE_1_105_c.jpeg" width="200" alt="截图4">
+  <img src="/images/51744D43-ACA6-4040-A766-DCE7138079C8.jpeg" width="200" alt="截图5">
+  <img src="/images/AE73D036-C227-454C-B0B7-1490BFFC64EE.jpeg" width="200" alt="截图6">
 </div>
 
 <div align="center">
-  <img src="iPhone-Agent-main/images/E27D93E8-66AE-4335-9726-21BC78FBF9EA_1_105_c.jpeg" width="200" alt="截图7">
+  <img src="/images/E27D93E8-66AE-4335-9726-21BC78FBF9EA_1_105_c.jpeg" width="200" alt="截图7">
 </div>
 
 ## 🔗 快捷指令链接
