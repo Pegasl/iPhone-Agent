@@ -7,10 +7,10 @@
 
 ### 核心逻辑
 <div align="center">
-  <img src="/images/Pasted%20image%2020260204152746.png" width="200" alt="意图识别">
+  <img src="/images/Pasted%20image%2020260204152746.png" width="600" alt="意图识别">
 </div>
 <div align="center">
-  <img src="/images/Pasted%20image%2020260204153832.png" width="200" alt="处理意图">
+  <img src="/images/Pasted%20image%2020260204153832.png" width="600" alt="处理意图">
 </div>
 
 ### 应用截图
