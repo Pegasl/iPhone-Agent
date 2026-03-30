@@ -16,18 +16,19 @@
 ### 应用截图
 
 <div align="center">
-  <img src="/images/E337C2D4-6CE1-4B9C-B248-39F8EF2C7C92_1_201_a.jpeg" width="200" alt="截图1">
-  <img src="/images/565C6364-4598-44A0-8A0E-DA4CB23086BC.jpeg" width="200" alt="截图2">
+  <img src="/images/E5689511-5065-4696-8C4B-2BE48E2729FE_1_105_c.jpeg" width="200" alt="截图4">
+  <img src="/images/E27D93E8-66AE-4335-9726-21BC78FBF9EA_1_105_c.jpeg" width="200" alt="截图7">
+  
 </div>
 
 <div align="center">
-  <img src="/images/E5689511-5065-4696-8C4B-2BE48E2729FE_1_105_c.jpeg" width="200" alt="截图4">
+  
   <img src="/images/51744D43-ACA6-4040-A766-DCE7138079C8.jpeg" width="200" alt="截图5">
 </div>
 
 <div align="center">
+  <img src="/images/565C6364-4598-44A0-8A0E-DA4CB23086BC.jpeg" width="200" alt="截图2">
   <img src="/images/5082D9AC-D0C6-4CB4-968B-766899B184E6_1_201_a.jpeg" width="200" alt="截图3">
-  <img src="/images/E27D93E8-66AE-4335-9726-21BC78FBF9EA_1_105_c.jpeg" width="200" alt="截图7">
 </div>
 
 ## 🔗 快捷指令链接
@@ -56,6 +57,9 @@ https://www.icloud.com/shortcuts/d9a731c44d534527a24400555ece1c31
 
 1. 点击上方链接添加对应的快捷指令到您的iPhone
 2. 根据你的实际情况修改获取 URL 操作，以硅基流动为例，可以直接修改你的 API
+<div align="center">
+  <img src="/images/E337C2D4-6CE1-4B9C-B248-39F8EF2C7C92_1_201_a.jpeg" width="200" alt="截图1">
+</div>
 3. 如果不是硅基流动，请参考供应商的 API 手册
 4. 在操作按钮界面中选择运行 AI Assistant 快捷指令
 5. 安装熊掌记 app 以渲染 AI 返回的markdown 格式内容
