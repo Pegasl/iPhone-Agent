@@ -14,13 +14,12 @@
 </div>
 
 ### 应用截图
-
+基础问答
 <div align="center">
   <img src="/images/E5689511-5065-4696-8C4B-2BE48E2729FE_1_105_c.jpeg" width="200" alt="截图4">
   <img src="/images/E27D93E8-66AE-4335-9726-21BC78FBF9EA_1_105_c.jpeg" width="200" alt="截图7">
-  
 </div>
-
+也可以通过共享表单，选择文字直接将文字作为输入，减少了手动输入的麻烦
 <div align="center">
   <img src="/images/565C6364-4598-44A0-8A0E-DA4CB23086BC.jpeg" width="200" alt="截图2">
   <img src="/images/5082D9AC-D0C6-4CB4-968B-766899B184E6_1_201_a.jpeg" width="200" alt="截图3">
