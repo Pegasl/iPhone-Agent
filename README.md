@@ -3,6 +3,7 @@ add shortcuts below to your iPhone
 
 AI Assistant:
 https://www.icloud.com/shortcuts/31f93948fe7e41f4a054bb50c00d4859
+
 Intent Recognition:
 https://www.icloud.com/shortcuts/baed59090f7a45c8be5fbe286b69bfe9Normal 
 Chat:
