@@ -6,15 +6,18 @@
 ## 📱 功能展示
 
 ### 核心逻辑
-![意图识别](/images/Pasted%20image%2020260204152746.png)
-![处理意图](/images/Pasted%20image%2020260204153832.png)
+<div align="center">
+  <img src="/images/Pasted%20image%2020260204152746.png" width="200" alt="意图识别">
+</div>
+<div align="center">
+  <img src="/images/Pasted%20image%2020260204153832.png" width="200" alt="处理意图">
+</div>
 
 ### 应用截图
 
 <div align="center">
   <img src="/images/E337C2D4-6CE1-4B9C-B248-39F8EF2C7C92_1_201_a.jpeg" width="200" alt="截图1">
   <img src="/images/565C6364-4598-44A0-8A0E-DA4CB23086BC.jpeg" width="200" alt="截图2">
-  
 </div>
 
 <div align="center">
